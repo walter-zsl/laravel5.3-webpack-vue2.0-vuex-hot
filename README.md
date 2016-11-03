@@ -1,5 +1,5 @@
-# laravel5.3-webpack-vue2.0-hot
-laravel5.3-webpack-vue2.0-hot
+# laravel5.3-webpack-vue2.0-vuex-hot
+laravel5.3-webpack-vue2.0-vuex-hot
 
 start:
 npm install 
