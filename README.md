@@ -1,5 +1,5 @@
-# laravel5.3-webpack-vue2.0-vuex-hot
-laravel5.3-webpack-vue2.0-vuex-hot
+# laravel5.3-webpack-vue2.0-vuex-element-ui-hot
+laravel5.3-webpack-vue2.0-vuex-element-ui-hot
 
 start:
 npm install 
@@ -19,6 +19,6 @@ npm run build
 
 URL：http://test.app/
 
-
+主要整合了laravel5.3, vue2.0, vuex, element-ui, 文件修改热更新（使用的是webpack-dev-middleware, webpack-hot-middleware）
 
 
