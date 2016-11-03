@@ -4,15 +4,20 @@ laravel5.3-webpack-vue2.0-vuex-hot
 start:
 npm install 
 
-watch（监听文件修改）   
+watch: 
 npm run dev  
-需要修改根目录的server.js的proxy域名为自己的
 
-访问：
-http://localhost:8080/
+If you want to listen to your web site address, you need to modify the domain name binding。
+（如果你需要本地虚拟域名映射端口，需要修改根目录下server.js里面的proxy配置信息）
 
-build（生成文件）
+update server.js proxy
+
+URL：http://localhost:8080/
+
+build:
 npm run build
+
+URL：http://test.app/
 
 
 
